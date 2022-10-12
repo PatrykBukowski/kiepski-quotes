@@ -1,0 +1,12 @@
+{
+  "name": "kiepski-quotes",
+  "version": "1.0.0",
+  "description": "Random quotes from Swiat Wedlug Kiepskich tv series",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["swiat", "wedlug", "kiepskich", "random", "quotes"],
+  "author": "Patryk Bukowski",
+  "license": "ISC"
+}
