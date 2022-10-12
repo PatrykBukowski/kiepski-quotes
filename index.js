@@ -19,4 +19,4 @@ const ferdekQuotes = [
 function random(){
 	return ferdekQuotes[Math.floor(Math.random() * ferdekQuotes.length)];
 }
-module.exports = random();
+module.exports = random;
