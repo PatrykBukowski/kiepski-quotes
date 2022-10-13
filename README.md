@@ -13,7 +13,13 @@ npm i kiepski-quotes
 ```js
 import kiepski from "kiepski-quotes";
 
-kiepski(); // Panie, noc jest!
+kiepski.getAll(); // Panie, noc jest!
+kiepski.getFerdek();
+kiepski.getHalinka();
+kiepski.getEdzio();
+kiepski.getArnold();
+kiepski.getHelena();
+kiepski.getMarian();
 ```
 
 ## License
