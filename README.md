@@ -22,6 +22,14 @@ kiepski.getHelena();
 kiepski.getMarian();
 ```
 
+You can set max length of the quote by passing the limit parameter:
+
+```js
+import kiepski from "kiepski-quotes";
+
+kiepski.getAll(9); // Ale jaja!
+```
+
 ## License
 
 MIT @ [Patryk Bukowski](https://github.com/PatrykBukowski)
